@@ -420,6 +420,7 @@ will return group ban list
 
 *Only owner and mods can add bots in group
 
+*Creator : @XxAli_Fuckoff_RevalexX
 
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
