@@ -226,7 +226,8 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[SecretBot is powerfull bot .
     sudo and developer XxAli_Fuckoff_RevalexX
-    pm me for buy group 
+    pm me for buy group
+    ]]
     help_text_realm = [[
 Realm Commands:
 
