@@ -224,8 +224,9 @@ function create_config( )
     sudo_users = {100610521},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Secret sudo and developer @XxAli_Fuckoff_RevalexX
-pm me for buy group 
+    about_text = [[SecretBot is powerfull bot .
+    sudo and developer @XxAli_Fuckoff_RevalexX
+    pm me for buy group 
     help_text_realm = [[
 Realm Commands:
 
