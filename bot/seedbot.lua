@@ -225,7 +225,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[SecretBot is powerfull bot .
-    sudo and developer @XxAli_Fuckoff_RevalexX
+    sudo and developer XxAli_Fuckoff_RevalexX
     pm me for buy group 
     help_text_realm = [[
 Realm Commands:
